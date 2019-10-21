@@ -3,3 +3,5 @@
 On branch "updates"
 
 New update
+
+Another update
