@@ -1,3 +1,3 @@
 ## This is a demo README file
 
-I hate README files!
+I love README files!
